@@ -1,0 +1,65 @@
+.loginBodyContainer{
+    background: linear-gradient(to  right, rgb(6, 1, 22), #073b8f);
+    
+}
+.mainBodyContainer{
+    background: whitesmoke;
+}
+h1{
+    color: rgb(0, 161, 182);
+
+}
+
+p{
+    margin: 10px 0 !important;
+    
+}
+.login-container{
+    width: 400px;
+    margin-top: 50px;
+    text-align: center;
+    /* background: linear-gradient(to  right, rgb(6, 1, 22), #073b8f); */
+}
+.fa-book{
+    color: rgb(198, 212, 0);
+}
+.lead{
+    font-weight: 600;
+}
+nav{
+    background: linear-gradient(to  right, rgb(6, 1, 22), #073b8f);
+}
+.container{
+    /* background:   #c9eeff; */
+    padding: 0px 10px 20px 10px;
+}
+.container h1{
+    color: black;
+}
+input{
+    color: black;
+}
+
+.fa-small{
+ font-size: 16px !important;   
+}
+.card{
+    background: white;
+}
+.btn-float{
+    float: left;
+    margin-right: 10px;
+}
+
+.img-small{
+    width: 70px;
+    height: 70px;
+}
+.moreFromUserLink:hover{
+    color: darkorange;
+    text-decoration: underline;
+}
+
+.card-content{
+    word-wrap: break-word;
+}
